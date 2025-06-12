@@ -1,1 +1,1 @@
-# jenkins-lab2
+# JenkinsLab2
